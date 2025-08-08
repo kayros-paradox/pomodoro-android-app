@@ -4,7 +4,7 @@
     <img width="40%" src="/images/cover.png">
 </div>
 
-### // TODO: in progress
+### Description 
 
 ```bash
 // TODO: in progress
