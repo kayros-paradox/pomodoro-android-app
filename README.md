@@ -1,6 +1,6 @@
 ## 📼 Pomodoro Application
 
-<img src="/images/cover.jpg">
+<img src="/images/cover.png">
 
 ### // TODO: in progress
 
