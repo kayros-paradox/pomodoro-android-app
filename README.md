@@ -1,4 +1,4 @@
-## 📄 Pomodoro Android Application
+## 📄 Pomodoro Application
 
 ### // TODO: in progress
 
