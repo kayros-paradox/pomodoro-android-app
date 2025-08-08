@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_large">40dp</dimen>
+    <dimen name="padding_medium">32dp</dimen>
+    <dimen name="padding_post_medium">16dp</dimen>
+    <dimen name="padding_pre_medium">8dp</dimen>
+    <dimen name="padding_small">4dp</dimen>
+    <dimen name="min_touch_size">48dp</dimen>
+    <dimen name="top_bar_spacer_size">48dp</dimen>
+    <dimen name="phase_editor_panel_spacer_width">24dp</dimen>
+    <dimen name="dialog_title_spacer_width">16dp</dimen>
+    <dimen name="dialog_feature_spacer_width">16dp</dimen>
+    <dimen name="card_spacer_medium">20dp</dimen>
+</resources>

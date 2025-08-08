@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_text">дефолтный текст</string>
+    <string name="settings">Настройки</string>
+    <string name="active">активен</string>
+    <string name="paused">приостановлен</string>
+    <string name="stopped">остановлен</string>
+    <string name="reset">сброс</string>
+    <string name="open_menu">открыть меню настроек</string>
+    <string name="close_menu">закрыть меню настроек</string>
+    <string name="show_the_introduction">Показать вступление</string>
+    <string name="get_premium">Получить премиум</string>
+    <string name="full_access">Полный доступ</string>
+    <string name="pomodoro">pomodoro</string>
+    <string name="options">настройки</string>
+    <string name="welcome">welcome</string>
+    <string name="statistics">статистика</string>
+    <string name="focus_task">Целевая задача</string>
+    <string name="new_tag">Добавление тега</string>
+    <string name="tag">Тег</string>
+    <string name="tags">Теги</string>
+    <string name="task">Задача</string>
+    <string name="save">Сохранение</string>
+    <string name="task_entry_save">Сохранить</string>
+    <string name="task_entry_cancel">Отмена</string>
+    <string name="enter_tag_name">Введите имя тега</string>
+    <string name="input_max_length_warning">Максимально допустимая длина: %d символов</string>
+
+    <string name="affirmation">Сфокусируйся</string>
+
+    <string name="mode_pomodoro">Помидор</string>
+    <string name="mode_break">Перерыв</string>
+    <string name="mode_rest">Отдых</string>
+
+    <string name="option_rest_interval">Интервал длительного отдыха</string>
+    <string name="option_notification_sound">Звук уведомлений</string>
+    <string name="option_vibration">Вибрация</string>
+    <string name="option_keep_the_screen_on">Не отключать экран</string>
+    <string name="option_show_taskbar">Показать панель задач</string>
+    <string name="option_welcome_screen">Вступительный экран</string>
+    <string name="option_fullscreen_mode">Полноэкранный режим</string>
+    <string name="option_night_mode">Ночной режим</string>
+    <string name="option_auto_break_start">Автостарт перерывов</string>
+    <string name="option_auto_break_start_description">
+        Автоматически запускать перерыв после сеанса помидора без взаимодействия с пользователем
+    </string>
+    <string name="option_auto_pomodoro_start">Автостарт помидора</string>
+    <string name="option_auto_pomodoro_start_description">
+        Автоматически запускать сеанс помидора после перерыва без взаимодействия с пользователем
+    </string>
+
+    <string name="notification_timer_mode_title">%s: готов к запуску</string>
+    <string name="notification_timer_mode_text">%d:00 мин</string>
+    <string name="notification_timer_progress_active_title">%s: выполняется</string>
+    <string name="notification_timer_progress_paused_title">%s: приостановлен</string>
+    <string name="notification_button_start">Начать</string>
+    <string name="notification_button_pause">Приостановить</string>
+    <string name="notification_button_resume">Продолжить</string>
+    <string name="notification_button_reset">Сбросить</string>
+    <string name="notification_button_close">Закрыть</string>
+
+    <string name="welcome_page_title_focus">Сосредоточьтесь</string>
+    <string name="welcome_page_description_focus">
+        Тайм-блокинг позволяет достигать намеченные цели, используя управляемые временные сессии.
+    </string>
+    <string name="welcome_page_title_relax">Отдохните</string>
+    <string name="welcome_page_description_relax">
+        Награждайте себя короткими перерывами, восстанавливая энергию. Подышите свежим воздухом, немного пройдитесь или расслабьтесь.
+    </string>
+    <string name="welcome_page_title_begin">Начнем</string>
+    <string name="welcome_page_description_begin">
+        Повторите цикл 4 раза, а затем отдохните. Используя тайм-блокинг, вы улучшаете свою производительность, пока тело привыкает к новому ритму.
+    </string>
+
+    <string name="notification_channel_name">Канал уведомлений помодоро</string>
+    <string name="notification_channel_description">
+        Канал уведомлений для взаимодействия с приложением
+    </string>
+
+    <string name="purchase_dialog_description">
+        Обновить до премиум-версии и получить доступ ко всем функциям!
+    </string>
+    <string name="purchase_feature_1">Отсутствие рекламы</string>
+    <string name="purchase_feature_2">Непрерывное использование.\nАвтоматический запуск сессий</string>
+    <string name="purchase_feature_3">Темный режим</string>
+    <string name="purchase_feature_4">Однократный платеж.\nВсе новые функции бесплатно</string>
+
+    <string name="error_toast_message">
+        Ошибка. Проблема с подключением к сервису RuStore
+    </string>
+    <string name="success_purchase_toast_message">Успешная покупка. Премиум активирован</string>
+    <string name="premium_activated_toast_message">Премиум активирован</string>
+    <string name="purchase_canceled_toast_message">Покупка отменена</string>
+
+    <string name="theme_color">Цвет темы</string>
+</resources>
