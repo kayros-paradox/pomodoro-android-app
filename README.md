@@ -1,7 +1,7 @@
 ## 📼 Pomodoro Application
 
 <div width="100%" align="center">
-    <img src="/images/cover.png">
+    <img width="60%" src="/images/cover.png">
 </div>
 
 ### // TODO: in progress
